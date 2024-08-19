@@ -55,13 +55,13 @@
 - 🤖 Undetectable by antivirus
 - 🤖and more ......
   <p align="center">
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/Itsroyalkatsic">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/itsroyalkatsic">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://t.me/sPHANTER">
+  <a href="https://t.me/itsroyalkatsic">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
   </p>
@@ -77,11 +77,11 @@
     <li><a href="https://heroku.com/" style="color: #B10DC9;">heroku.com</a></li>
   </ul>
   <p align="center">
-  <a href="https://T.ME/CYBERSHIELDX/">
+  <a href="https://T.ME/ROYALKATSICTIPS/">
     <img src="https://img.shields.io/badge/📹%20VIDEO%20TUTORIALS%20AVAILABLE%20HERE-blue?style=for-the-badge" alt="Video Tutorials Available Here" />
   </a>
 </p>
-  <li>Keep in mind that these sites can suspend your projects, so it's better to host on your own computer.</li>
+  <li>KEEP IN MIND THAT THESE SITES CAN SUSPEND YOUR PROJECTS, THUS ITS BETTER TO HOST ON YOUR OWN COMPUTER.</li>
   
 </ul>
 
@@ -141,16 +141,16 @@
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
 
 <p align="center">
-  <a href="https://t.me/CyberShieldX">
+  <a href="https://t.me/ITSROYALKATSICTIPS">
     <img src="https://img.shields.io/badge/CONTACT-TELEGRAM-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-  <a href="https://instagram.com/CyberShieldX">
+  <a href="https://instagram.com/itsroyalkatsic">
     <img src="https://img.shields.io/badge/CONTACT-INSTAGRAM-red?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/CyberShieldX">
+  <a href="https://twitter.com/itsroyalkatsic">
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.youtube.com/@sphanter/about">
+  <a href="https://www.youtube.com/@royalkatsic/about">
     <img src="https://img.shields.io/badge/CONTACT-YOUTUBE-red?style=for-the-badge&logo=youtube" alt="Youtube Badge"/>
   </a>
 </p>
@@ -161,7 +161,7 @@
 </p>
 
 <p align="center">
-  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. Dogerat is built for educational and internal use only.
+  <b><i>Note:</i></b> The developer provides no warranty with this software and will not be responsible for any direct or indirect damage caused by the usage of this tool. KATSIC_RAT is built for educational and internal use only.
 </p>
 
 <p align="center">
@@ -169,7 +169,7 @@
 </p>
 
 <p align="center">
-  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/CyberShieldX"><code>@CYBERSHIELDX</code></a> and the Telegram handle is <a href="https://t.me/CyberShieldX"><code>@CYBERSHIELDX</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
+  <b><i>Important:</i></b> To prevent any fraudulent activity, please ensure that the Instagram username is <a href="https://instagram.com/ROYALKATSIC4"><code>@ROYALKATSIC4</code></a> and the Telegram handle is <a href="https://t.me/ROYALKATSIC4"><code>@ROYALKATSICTIPS</code></a>. Beware of scams and phishing attempts that use similar usernames or handles.
 </p>
 
 <p align="center">
